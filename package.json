@@ -1,0 +1,20 @@
+{
+    "name": "json-stream",
+    "version": "1.0.0",
+    "description": "JSON object over stream",
+    "keywords": ["stream", "json", "writable", "readable"],
+    "homepage": "https://github.com/coolwust/json-stream",
+    "license": "MIT",
+    "author": {
+        "name": "Xianghan Wang",
+        "email": "coolwut@gmail.com"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/coolwust/json-stream"
+    },
+    "engines": {
+        "node": ">=1.0.0"
+    }
+}
